@@ -1,0 +1,8 @@
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyClient\bin\Debug\SaltyClient.net.dll
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyClient\bin\Debug\SaltyClient.net.pdb
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyClient\bin\Debug\CitizenFX.Core.dll
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyClient\bin\Debug\Newtonsoft.Json.dll
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyClient\obj\Debug\SaltyClient.csproj.CopyComplete
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyClient\obj\Debug\SaltyClient.net.dll
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyClient\obj\Debug\SaltyClient.net.pdb
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyClient\obj\Debug\SaltyClient.csprojAssemblyReference.cache

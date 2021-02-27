@@ -1,0 +1,8 @@
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyServer\bin\Debug\netstandard2.0\SaltyServer.net.deps.json
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyServer\bin\Debug\netstandard2.0\SaltyServer.net.dll
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyServer\bin\Debug\netstandard2.0\SaltyServer.net.pdb
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.AssemblyInfoInputs.cache
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.AssemblyInfo.cs
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.net.dll
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.net.pdb
+F:\redMServer\server-data\resources\[Base]\[Voip]\saltychat\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.csprojAssemblyReference.cache
